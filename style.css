@@ -1,0 +1,94 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-attachment: fixed;
+    background-size: contain;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+  }
+
+  p {
+    color: hsl(224, 23%, 55%);
+    margin: 0;
+    padding: 0;
+  }
+  h4 {
+    margin: 0;
+    padding: 0;
+  }
+
+  .wrapper {
+    background-color: white;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    align-items: inherit;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    color: hsl(223, 47%, 23%);
+    border-radius: 15px;
+  }
+
+  .image {
+    border-top-left-radius:  15px;
+    border-top-right-radius: 15px;
+    width: inherit;
+  }
+  
+  .summary {
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+
+  .centre-div {
+    background-color: hsl(225, 100%, 98%);
+    margin: 20px 50px;
+    height: 45px;
+    padding: 20px;
+    align-items: center;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .plan {
+    padding-left: 20px;
+  }
+
+  .change {
+    padding-left: 90px;
+    font-size: 15px;
+  }
+  .change:hover {
+    color: rgb(102, 64, 192);
+  }
+
+  .payment {
+    background-color: hsl(245, 75%, 52%);
+    box-shadow: 1px 25px 20px hsl(225, 100%, 94%);
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    font-size: 0.9rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+  }
+  .payment:hover {
+    background-color: rgb(102, 64, 192);
+  }
+
+  .order {
+    padding-bottom: 50px;
+    font-size: 0.9rem;
+  }
+  .order:hover > p{
+    color: black;
+  }
+  
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
