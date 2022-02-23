@@ -13,8 +13,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](Michael Rowland)
-- [Acknowledgments](My team: zurichat maintainers)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -27,12 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-- [Solution](./images/Screenshot (400).png)
+- Solution Screenshot: [](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order summary challenge](https://mykie88.github.io/order-summary-component-main/)
 
 ## My process
 
